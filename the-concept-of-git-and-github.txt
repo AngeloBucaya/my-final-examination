@@ -1,0 +1,7 @@
+                The Concept of Git and Github
+
+Git - is a distributed version control system, as a contrast to for example subversion that is centralized.
+    - What this means is that with subversion, the code repository (repo) lives on a server and people need special permissions (commit rights) to be able to add code to the repo. Everything lives in one place.
+
+GitHub - is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. 
+       - This tutorial teaches you GitHub essentials like repositories, branches, commits, and Pull Requests.
