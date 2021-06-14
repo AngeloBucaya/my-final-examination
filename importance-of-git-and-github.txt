@@ -1,0 +1,7 @@
+              IMPORTANCE OF GIT AND GITHUB
+
+GIT - Is a version control system that lets you manage and keep track of your source code history.
+    - Through this it's easy to edit your work much easier.
+
+GITHUB - is a cloud-based hosting service that lets you manage Git repositories.
+       - If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
